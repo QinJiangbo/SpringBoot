@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3774978800">
+    <data-source source="LOCAL" name="PostgreSQL - postgres@trial" uuid="7780c62e-af26-4d7b-bfab-257b39f5a9e3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://101.200.91.162:5432/satecdb_new</jdbc-url>
+    </data-source>
+  </component>
+</project>
